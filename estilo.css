@@ -1,0 +1,198 @@
+body
+{
+    background-color: #123123;
+
+}
+
+.containertopo
+{
+width: 900px;
+height: 200px;
+background-image: url("jp_topoFundo.jpg");
+margin: 0 auto ; 
+}
+
+.imagemlogotipo
+{
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+
+.containermenu{
+    width: 500px;
+    height: 40px;
+    background-image: url(jp_menuFundo.jpg);
+    position: relative;
+    top: -80px;
+    left: 325px;
+    border: 2px solid #fff;
+    border-radius: 20px 0px;
+    text-align: center;
+}
+
+.menulink,
+.menuseparaitor 
+{
+font-family: Arial;
+color: #fff;
+font-weight: bold;
+font-size: 18px;
+text-decoration: none;
+}
+
+.menulink:hover
+{
+  text-decoration: underline;
+}
+
+.titulo
+{
+    width: 900px;
+    height: 100px;
+    background-color: #550005;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 auto;
+}
+
+.textotitulo
+{
+    font-size: 37px;
+    color: #fff;
+}
+
+.filme1
+{
+    width: 900px;
+    height: 300px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+.imgfilme1
+{
+    border: 5px solid rgb(170, 30, 30);
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.f1
+{
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+
+.f1descricao
+{
+    width: 750px;
+    position: relative;
+    top: 50px;
+    left: 90px;
+}
+
+.filme2
+{
+    width: 900px;
+    height: 300px;
+    background-color: #555;
+    margin: 0 auto;
+}
+
+.imgfilme2
+{
+    border: 5px solid #ffff00;
+    float: right;
+    position: relative;
+    top: 50px;
+    left: -50px;
+}
+
+.f2
+{
+    position: relative;
+    color: #fff;
+    left: 40px;
+    top: 50px;
+    margin: 0;
+}
+
+.f2descricao
+{
+    width: 600px;
+    color: #fff;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+
+.tabelapremios
+{
+    width: 900px;
+    height: 400px ;
+    background-image: url("jp_fundoSelva.jpg");
+    margin: 0 auto;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.ptitulo
+{
+    position:relative;
+    top:50px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.tpremios
+{
+    position:relative;
+    top: 80px;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.thpremios
+{
+    background-color: #333333;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.trp
+{
+    text-align: center;
+}
+
+.trp:nth-child(even)
+{
+    background-color: #999999;
+}
+
+.trp:nth-child(odd)
+{
+    background-color: #ffff00;
+}
+
+.fim
+{
+width: 900px;
+height: 50px;
+background-image: url("jp_topoFundo.jpg");
+text-align: center;
+font-weight: bold;
+margin: 0 auto;
+}
+
+.textoc
+{
+    color: #fff;
+    font-size: 14px;
+    position: relative;
+    top: 20px;
+}
